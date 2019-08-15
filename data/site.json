@@ -3,7 +3,7 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1565891451/hpidlowpa2rwdbxi0lwa.jpg",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
@@ -11,18 +11,18 @@
   ],
   "content": [
     {
-      "email": "flymycommunity@gmail.com",
-      "linkcont": "+0909 2131 1231",
-      "videoid": "255662356",
+      "email": "boblandryhomes@gmail.com",
+      "linkcont": "719-235-7110",
+      "videoid": "233413663",
       "sliderbg": "/img/fly3_bg.jpg"
     }
   ],
   "about": [
-  {
-    "abouttext1": "Crystal Park - FMC ",
-    "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
-    "aboutbg": "/img/content_bg.png"
-  }
+    {
+      "abouttext1": "Banning Lewis Ranch",
+      "abouttext2": "If you enjoyed our tour with Covington Homes, here's a video that features the entire neighborhood!",
+      "aboutbg": "/img/content_bg.png"
+    }
   ],
   "updatedDate": "2017-11-28T06:24:37.530Z"
 }
